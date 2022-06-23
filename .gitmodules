@@ -1,0 +1,6 @@
+[submodule "core_submodule"]
+	path = core_submodule
+	url = https://github.com/arindam-chk/core_submodule.git
+[submodule "apps/app1"]
+	path = apps/app1
+	url = https://github.com/arindam-chk/app1.git
